@@ -1,4 +1,4 @@
-🧠 Mood Analyzer Project | NLP, Web Scraping, Python
+🧠 ## Mood Analyzer Project | NLP, Web Scraping, Python
 
 🚀 Crafted an advanced model integrating web scraping and sentiment analysis for a comprehensive mood analysis experience.
 
